@@ -1,0 +1,52 @@
+{
+  "name": "overlook-framework2",
+  "version": "0.0.0",
+  "description": "Yet another node web framework",
+  "main": "./lib/",
+  "author": {
+    "name": "Overlook Motel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/overlookmotel/overlook-framework2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/overlookmotel/overlook-framework2/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "chai": "^2.3.0",
+	"jshint": "^2.7.0",
+    "istanbul": "^0.3.14",
+    "coveralls": "^2.11.2"
+  },
+  "keywords": [
+    "web",
+    "http",
+    "framework",
+    "generator",
+    "folder",
+    "file",
+    "tree",
+    "controller",
+    "view",
+    "default",
+    "convention"
+  ],
+  "scripts": {
+    "test": "make test",
+    "cover": "make cover"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "readmeFilename": "README.md",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/overlookmotel/overlook-framework2/raw/master/License"
+    }
+  ]
+}
