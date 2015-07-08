@@ -3,3 +3,4 @@
 ## Next
 
 * Initial code
+* Update dependencies
