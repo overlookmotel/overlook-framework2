@@ -17,6 +17,7 @@
     "bluebird": "^2.9.31",
     "co-bluebird": "^0.1.0",
     "co-series": "^0.1.0",
+    "config-load": "^0.1.0",
     "ejs": "^2.3.2",
     "express": "^4.13.0",
     "expressor": "^2.1.1",
