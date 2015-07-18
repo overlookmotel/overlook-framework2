@@ -21,9 +21,8 @@
     "express": "^4.13.0",
     "expressor": "^2.1.1",
     "fs-extra-promise": "^0.2.0",
-    "is-generator": "^1.0.2",
     "lodash": "^3.10.0",
-    "promisify-any": "^1.0.0",
+    "promisify-any": "^1.1.1",
     "require-folder-tree": "^1.4.5",
     "walk-folder-tree": "^1.0.0"
   },
