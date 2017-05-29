@@ -1,5 +1,7 @@
 # overlook-framework2.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/overlook-framework2.svg)](https://greenkeeper.io/)
+
 # Yet another node web framework
 
 ## Current status
